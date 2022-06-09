@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nika-Baikulov
+- 👋 Hi, I’m @nika781123
 - 👀 I’m interested in .Net Dev
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
